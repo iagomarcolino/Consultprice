@@ -1,0 +1,24 @@
+{
+  "generated_at_utc": "2026-01-06T11:43:06.280960+00:00",
+  "source": "yfinance",
+  "interval": "1d",
+  "lookback": "400d",
+  "trading_days": 252,
+  "data": [
+    {
+      "symbol": "PETR4.SA",
+      "price": 30.200001,
+      "vol_annual": 0.2335489
+    },
+    {
+      "symbol": "VALE3.SA",
+      "price": 73.120003,
+      "vol_annual": 0.24039032
+    },
+    {
+      "symbol": "ITUB4.SA",
+      "price": 39.720001,
+      "vol_annual": 0.20635902
+    }
+  ]
+}
