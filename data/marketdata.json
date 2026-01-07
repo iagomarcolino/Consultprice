@@ -1,434 +1,435 @@
 {
-  "generated_at_utc": "2026-01-06T15:41:56.520000+00:00",
+  "generated_at_utc": "2026-01-07T14:02:55.218938+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
   "trading_days": 252,
+  "count": 85,
   "data": [
     {
       "symbol": "ABEV3.SA",
-      "price": 13.74,
-      "vol_annual": 0.22064155
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "ALOS3.SA",
-      "price": 28.98,
-      "vol_annual": 0.23265796
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "ASAI3.SA",
-      "price": 7.9,
-      "vol_annual": 0.46669633
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "AURE3.SA",
-      "price": 11.97,
-      "vol_annual": 0.28587686
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "AXIA3.SA",
-      "price": 51.82,
-      "vol_annual": 0.3137618
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "AXIA6.SA",
-      "price": 54.220001,
-      "vol_annual": 0.2241521
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "AXIA7.SA",
-      "price": 49.77,
-      "vol_annual": 0.25366879
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "AZZA3.SA",
-      "price": 24.83,
-      "vol_annual": 0.46276298
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "B3SA3.SA",
-      "price": 14.41,
-      "vol_annual": 0.32294926
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "BBAS3.SA",
-      "price": 22.059999,
-      "vol_annual": 0.25089137
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "BBDC3.SA",
-      "price": 16.32,
-      "vol_annual": 0.25150665
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "BBDC4.SA",
-      "price": 19.16,
-      "vol_annual": 0.26874026
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "BBSE3.SA",
-      "price": 36.099998,
-      "vol_annual": 0.1929081
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "BEEF3.SA",
-      "price": 5.21,
-      "vol_annual": 0.45223061
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "BPAC11.SA",
-      "price": 54.66,
-      "vol_annual": 0.29114843
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "BRAP4.SA",
-      "price": 20.65,
-      "vol_annual": 0.23812209
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "BRAV3.SA",
-      "price": 15.89,
-      "vol_annual": 0.46732332
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "BRKM5.SA",
-      "price": 7.82,
-      "vol_annual": 0.50291563
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "CEAB3.SA",
-      "price": 10.47,
-      "vol_annual": 0.57014618
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "CMIG4.SA",
-      "price": 11.2,
-      "vol_annual": 0.24376596
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "CMIN3.SA",
-      "price": 5.49,
-      "vol_annual": 0.38875356
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "COGN3.SA",
-      "price": 3.33,
-      "vol_annual": 0.53534065
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "CPFE3.SA",
-      "price": 53.759998,
-      "vol_annual": 0.19440557
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "CPLE3.SA",
-      "price": 12.36,
-      "vol_annual": 0.22351416
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "CSAN3.SA",
-      "price": 5.31,
-      "vol_annual": 0.44949501
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "CSMG3.SA",
-      "price": 42.93,
-      "vol_annual": 0.29426672
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "CSNA3.SA",
-      "price": 9.24,
-      "vol_annual": 0.44769492
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "CURY3.SA",
-      "price": 33.389999,
-      "vol_annual": 0.30895899
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "CXSE3.SA",
-      "price": 16.379999,
-      "vol_annual": 0.22422321
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "CYRE3.SA",
-      "price": 25.85,
-      "vol_annual": 0.38241549
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "CYRE4.SA",
-      "price": 24.809999,
-      "vol_annual": 0.50267957
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "DIRR3.SA",
-      "price": 14.45,
-      "vol_annual": 0.34113998
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "EGIE3.SA",
-      "price": 31.469999,
-      "vol_annual": 0.20856436
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "EMBJ3.SA",
-      "price": 92.07,
-      "vol_annual": 0.30008366
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "ENEV3.SA",
-      "price": 20.35,
-      "vol_annual": 0.27009641
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "ENGI11.SA",
-      "price": 48.189999,
-      "vol_annual": 0.25997158
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "EQTL3.SA",
-      "price": 39.209999,
-      "vol_annual": 0.26334086
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "FLRY3.SA",
-      "price": 15.54,
-      "vol_annual": 0.28224495
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "GGBR4.SA",
-      "price": 20.790001,
-      "vol_annual": 0.27664061
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "GOAU4.SA",
-      "price": 9.05,
-      "vol_annual": 0.27545731
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "HAPV3.SA",
-      "price": 16.5,
-      "vol_annual": 0.64754782
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "HYPE3.SA",
-      "price": 24.17,
-      "vol_annual": 0.32343946
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "IGTI11.SA",
-      "price": 25.93,
-      "vol_annual": 0.26752731
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "IRBR3.SA",
-      "price": 53.450001,
-      "vol_annual": 0.4757517
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "ISAE4.SA",
-      "price": 27.24,
-      "vol_annual": 0.19387468
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "ITSA4.SA",
-      "price": 12.01,
-      "vol_annual": 0.21438982
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "ITUB4.SA",
-      "price": 40.139999,
-      "vol_annual": 0.20625976
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "KLBN11.SA",
-      "price": 18.74,
-      "vol_annual": 0.20840623
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "LREN3.SA",
-      "price": 13.16,
-      "vol_annual": 0.42364808
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "MBRF3.SA",
-      "price": 19.17,
-      "vol_annual": 0.55154812
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "MGLU3.SA",
-      "price": 9.28,
-      "vol_annual": 0.63983825
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "MOTV3.SA",
-      "price": 15.57,
-      "vol_annual": 0.24879016
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "MRVE3.SA",
-      "price": 8.35,
-      "vol_annual": 0.47843956
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "MULT3.SA",
-      "price": 27.950001,
-      "vol_annual": 0.24694708
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "NATU3.SA",
-      "price": 7.47,
-      "vol_annual": 1.83446632
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "PCAR3.SA",
-      "price": 3.93,
-      "vol_annual": 0.62184938
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "PETR3.SA",
-      "price": 31.780001,
-      "vol_annual": 0.26222952
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "PETR4.SA",
-      "price": 30.219999,
-      "vol_annual": 0.23351978
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "POMO4.SA",
-      "price": 5.97,
-      "vol_annual": 0.4054166
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "PRIO3.SA",
-      "price": 41.349998,
-      "vol_annual": 0.31428253
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "PSSA3.SA",
-      "price": 47.799999,
-      "vol_annual": 0.22422349
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "RADL3.SA",
-      "price": 24.42,
-      "vol_annual": 0.39124229
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "RAIL3.SA",
-      "price": 15.05,
-      "vol_annual": 0.3190265
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "RAIZ4.SA",
-      "price": 0.82,
-      "vol_annual": 0.44861447
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "RDOR3.SA",
-      "price": 42.610001,
-      "vol_annual": 0.28721499
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "RECV3.SA",
-      "price": 11.17,
-      "vol_annual": 0.34036347
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "RENT3.SA",
-      "price": 44.580002,
-      "vol_annual": 0.41564776
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "RENT4.SA",
-      "price": 42.790001,
-      "vol_annual": 0.44693172
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "SANB11.SA",
-      "price": 34.299999,
-      "vol_annual": 0.24878634
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "SBSP3.SA",
-      "price": 132.089996,
-      "vol_annual": 0.25439907
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "SLCE3.SA",
-      "price": 14.61,
-      "vol_annual": 0.23097498
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "SMFT3.SA",
-      "price": 23.67,
-      "vol_annual": 0.33357752
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "SUZB3.SA",
-      "price": 50.93,
-      "vol_annual": 0.23589744
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "TAEE11.SA",
-      "price": 42.580002,
-      "vol_annual": 0.16291873
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "TIMS3.SA",
-      "price": 21.49,
-      "vol_annual": 0.26136822
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "TOTS3.SA",
-      "price": 41.32,
-      "vol_annual": 0.30201765
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "UGPA3.SA",
-      "price": 21.360001,
-      "vol_annual": 0.34832221
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "USIM5.SA",
-      "price": 6.37,
-      "vol_annual": 0.45282248
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "VALE3.SA",
-      "price": 74.209999,
-      "vol_annual": 0.24004367
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "VAMO3.SA",
-      "price": 3.39,
-      "vol_annual": 0.58370339
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "VBBR3.SA",
-      "price": 25.549999,
-      "vol_annual": 0.28922163
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "VIVA3.SA",
-      "price": 30.35,
-      "vol_annual": 0.36353293
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "VIVT3.SA",
-      "price": 32.939999,
-      "vol_annual": 0.23615889
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "WEGE3.SA",
-      "price": 48.330002,
-      "vol_annual": 0.30253307
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "YDUQ3.SA",
-      "price": 12.93,
-      "vol_annual": 0.50337088
+      "price": null,
+      "vol_annual": null
     }
   ]
 }
