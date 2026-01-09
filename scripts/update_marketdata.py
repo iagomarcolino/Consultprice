@@ -161,7 +161,7 @@ def main():
 
     results = []
 
-    for batch in chunked(list(SYMBOLS), 100):
+    for batch in chunked(list(SYMBOLS.keys()), 100):
         try:
             df = yf.download(
                 tickers=batch,
