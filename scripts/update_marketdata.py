@@ -111,9 +111,13 @@ def chunked(lst, n):
 def _append_nulls(results, batch):
     """Se um batch falhar, adiciona linhas com null para não quebrar o pipeline."""
     for sym in batch:
+        # Busca o nome no dicionário SYMBOLS
+        company_name = SYMBOLS.get(sym, sym) 
+        
         results.append(
             {
                 "symbol": sym,
+                "name": company_name, 
                 "price": None,
                 "vol_annual": None,
             }
@@ -157,7 +161,7 @@ def main():
 
     results = []
 
-    for batch in chunked(SYMBOLS, 100):
+    for batch in chunked(list(SYMBOLS), 100):
         try:
             df = yf.download(
                 tickers=batch,
