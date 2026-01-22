@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-01-21T22:43:32.780760+00:00",
+  "generated_at_utc": "2026-01-22T06:38:46.843179+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -159,8 +159,8 @@
     {
       "symbol": "CSMG3.SA",
       "name": "Copasa",
-      "price": null,
-      "vol_annual": null
+      "price": 46.889999,
+      "vol_annual": 0.29530321
     },
     {
       "symbol": "CSNA3.SA",
