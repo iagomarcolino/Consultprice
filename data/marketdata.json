@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-02-11T22:48:27.500560+00:00",
+  "generated_at_utc": "2026-02-12T07:04:19.163460+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -69,14 +69,14 @@
     {
       "symbol": "BBDC3.SA",
       "name": "Bradesco (ON)",
-      "price": 18.59,
-      "vol_annual": 0.25627201
+      "price": 18.639999,
+      "vol_annual": 0.25643891
     },
     {
       "symbol": "BBDC4.SA",
       "name": "Bradesco (PN)",
-      "price": 21.540001,
-      "vol_annual": 0.27311055
+      "price": 21.57,
+      "vol_annual": 0.27320258
     },
     {
       "symbol": "BBSE3.SA",
@@ -93,14 +93,14 @@
     {
       "symbol": "BPAC11.SA",
       "name": "BTG Pactual",
-      "price": 59.040001,
-      "vol_annual": 0.29407907
+      "price": 59.209999,
+      "vol_annual": 0.29408892
     },
     {
       "symbol": "BRAP4.SA",
       "name": "Bradespar",
-      "price": 24.98,
-      "vol_annual": 0.25067217
+      "price": 24.9,
+      "vol_annual": 0.25046689
     },
     {
       "symbol": "BRAV3.SA",
@@ -153,8 +153,8 @@
     {
       "symbol": "CSAN3.SA",
       "name": "Cosan",
-      "price": 6.38,
-      "vol_annual": 0.45673245
+      "price": 6.43,
+      "vol_annual": 0.4572814
     },
     {
       "symbol": "CSMG3.SA",
@@ -237,8 +237,8 @@
     {
       "symbol": "GGBR4.SA",
       "name": "Gerdau",
-      "price": 22.65,
-      "vol_annual": 0.28242267
+      "price": 22.67,
+      "vol_annual": 0.28246655
     },
     {
       "symbol": "GOAU4.SA",
@@ -279,14 +279,14 @@
     {
       "symbol": "ITSA4.SA",
       "name": "Itaúsa",
-      "price": 15.0,
-      "vol_annual": 0.22537684
+      "price": 15.04,
+      "vol_annual": 0.22556964
     },
     {
       "symbol": "ITUB4.SA",
       "name": "Itaú Unibanco",
-      "price": 49.369999,
-      "vol_annual": 0.21694031
+      "price": 49.549999,
+      "vol_annual": 0.2171519
     },
     {
       "symbol": "KLBN11.SA",
@@ -345,14 +345,14 @@
     {
       "symbol": "PETR3.SA",
       "name": "Petrobras (ON)",
-      "price": 41.060001,
-      "vol_annual": 0.26592233
+      "price": 41.119999,
+      "vol_annual": 0.26602793
     },
     {
       "symbol": "PETR4.SA",
       "name": "Petrobras (PN)",
-      "price": 38.080002,
-      "vol_annual": 0.23381642
+      "price": 38.130001,
+      "vol_annual": 0.23388759
     },
     {
       "symbol": "POMO4.SA",
@@ -405,20 +405,20 @@
     {
       "symbol": "RENT3.SA",
       "name": "Localiza",
-      "price": 51.119999,
-      "vol_annual": 0.41714671
+      "price": 51.09,
+      "vol_annual": 0.41713624
     },
     {
       "symbol": "RENT4.SA",
       "name": "Localiza (PN - Antiga)",
-      "price": 49.740002,
-      "vol_annual": 0.38112761
+      "price": 49.52,
+      "vol_annual": 0.38009257
     },
     {
       "symbol": "SANB11.SA",
       "name": "Santander Brasil",
-      "price": 37.07,
-      "vol_annual": 0.25762156
+      "price": 36.860001,
+      "vol_annual": 0.25746761
     },
     {
       "symbol": "SBSP3.SA",
@@ -465,8 +465,8 @@
     {
       "symbol": "UGPA3.SA",
       "name": "Ultrapar",
-      "price": 27.26,
-      "vol_annual": 0.34785001
+      "price": 27.34,
+      "vol_annual": 0.34793635
     },
     {
       "symbol": "USIM5.SA",
@@ -477,8 +477,8 @@
     {
       "symbol": "VALE3.SA",
       "name": "Vale",
-      "price": 90.089996,
-      "vol_annual": 0.25413054
+      "price": 90.080002,
+      "vol_annual": 0.25412131
     },
     {
       "symbol": "VAMO3.SA",
