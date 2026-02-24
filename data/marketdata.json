@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-02-23T22:58:39.861822+00:00",
+  "generated_at_utc": "2026-02-24T07:03:13.961179+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -363,8 +363,8 @@
     {
       "symbol": "PRIO3.SA",
       "name": "Prio (PetroRio)",
-      "price": 53.73,
-      "vol_annual": 0.32021485
+      "price": 53.450001,
+      "vol_annual": 0.32049069
     },
     {
       "symbol": "PSSA3.SA",
