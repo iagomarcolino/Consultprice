@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-09T22:46:14.228031+00:00",
+  "generated_at_utc": "2026-03-10T06:54:23.605153+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -352,7 +352,7 @@
       "symbol": "PETR4.SA",
       "name": "Petrobras (PN)",
       "price": 43.16,
-      "vol_annual": 0.2392869
+      "vol_annual": 0.239321
     },
     {
       "symbol": "POMO4.SA",
