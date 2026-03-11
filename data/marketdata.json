@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-10T22:45:55.130688+00:00",
+  "generated_at_utc": "2026-03-11T06:57:23.415614+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -483,8 +483,8 @@
     {
       "symbol": "VAMO3.SA",
       "name": "Vamos",
-      "price": 3.98,
-      "vol_annual": 0.59896691
+      "price": 3.963418,
+      "vol_annual": 0.59897777
     },
     {
       "symbol": "VBBR3.SA",
