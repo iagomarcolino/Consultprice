@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-25T22:54:09.331490+00:00",
+  "generated_at_utc": "2026-03-26T07:12:55.940652+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -429,8 +429,8 @@
     {
       "symbol": "SLCE3.SA",
       "name": "SLC Agrícola",
-      "price": null,
-      "vol_annual": null
+      "price": 18.52,
+      "vol_annual": 0.23037014
     },
     {
       "symbol": "SMFT3.SA",
