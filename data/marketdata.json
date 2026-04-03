@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-04-03T07:12:54.260675+00:00",
+  "generated_at_utc": "2026-04-03T22:52:09.917321+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -219,8 +219,8 @@
     {
       "symbol": "ENGI11.SA",
       "name": "Energisa",
-      "price": 53.220001,
-      "vol_annual": 0.26764039
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "EQTL3.SA",
