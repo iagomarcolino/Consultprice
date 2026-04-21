@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-04-20T23:01:17.183847+00:00",
+  "generated_at_utc": "2026-04-21T07:55:31.296722+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -309,8 +309,8 @@
     {
       "symbol": "MGLU3.SA",
       "name": "Magazine Luiza",
-      "price": 9.35,
-      "vol_annual": 0.62468094
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "MOTV3.SA",
