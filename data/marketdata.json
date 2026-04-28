@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-04-27T23:08:16.800498+00:00",
+  "generated_at_utc": "2026-04-28T08:27:57.688235+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -345,8 +345,8 @@
     {
       "symbol": "PETR3.SA",
       "name": "Petrobras (ON)",
-      "price": null,
-      "vol_annual": null
+      "price": 52.419998,
+      "vol_annual": 0.27729132
     },
     {
       "symbol": "PETR4.SA",
