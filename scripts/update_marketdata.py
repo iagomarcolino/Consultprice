@@ -22,6 +22,7 @@ SYMBOLS = {
     "BBDC4.SA": "Bradesco (PN)",
     "BBSE3.SA": "BB Seguridade",
     "BEEF3.SA": "Minerva",
+    "BOVA11.SA": "iShares Ibovespa",
     "BPAC11.SA": "BTG Pactual",
     "BRAP4.SA": "Bradespar",
     "BRAV3.SA": "Brava Energia (3R + Enauta)",
