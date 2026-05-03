@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-05-02T07:47:26.322425+00:00",
+  "generated_at_utc": "2026-05-03T08:03:36.188599+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
   "trading_days": 252,
-  "count": 85,
+  "count": 86,
   "data": [
     {
       "symbol": "ABEV3.SA",
@@ -89,6 +89,12 @@
       "name": "Minerva",
       "price": 3.8,
       "vol_annual": 0.46644853
+    },
+    {
+      "symbol": "BOVA11.SA",
+      "name": "iShares Ibovespa",
+      "price": 184.089996,
+      "vol_annual": 0.16985314
     },
     {
       "symbol": "BPAC11.SA",
