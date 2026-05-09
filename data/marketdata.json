@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-08T23:08:07.752486+00:00",
+  "generated_at_utc": "2026-05-09T07:58:59.992812+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -483,8 +483,8 @@
     {
       "symbol": "VALE3.SA",
       "name": "Vale",
-      "price": 81.489998,
-      "vol_annual": 0.2620142
+      "price": 80.800003,
+      "vol_annual": 0.26175223
     },
     {
       "symbol": "VAMO3.SA",
