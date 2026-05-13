@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-12T23:15:44.944122+00:00",
+  "generated_at_utc": "2026-05-13T08:46:57.583677+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -219,8 +219,8 @@
     {
       "symbol": "ENEV3.SA",
       "name": "Eneva",
-      "price": 26.35,
-      "vol_annual": 0.32168286
+      "price": 26.440001,
+      "vol_annual": 0.32157996
     },
     {
       "symbol": "ENGI11.SA",
