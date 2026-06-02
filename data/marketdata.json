@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-01T23:43:51.560980+00:00",
+  "generated_at_utc": "2026-06-02T10:27:12.629201+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -214,7 +214,7 @@
       "symbol": "EMBJ3.SA",
       "name": "Embraer (Verificar: EMBR3)",
       "price": 72.169998,
-      "vol_annual": 0.41540357
+      "vol_annual": 0.41212223
     },
     {
       "symbol": "ENEV3.SA",
@@ -322,7 +322,7 @@
       "symbol": "MOTV3.SA",
       "name": "Movida (Verificar: MOVI3)",
       "price": 14.13,
-      "vol_annual": 0.27584781
+      "vol_annual": 0.2837962
     },
     {
       "symbol": "MRVE3.SA",
