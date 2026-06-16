@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-15T23:59:44.198535+00:00",
+  "generated_at_utc": "2026-06-16T11:13:38.762243+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -40,7 +40,7 @@
       "symbol": "AXIA6.SA",
       "name": "Axia (Verificar Ticker)",
       "price": 55.779999,
-      "vol_annual": 0.27301474
+      "vol_annual": 0.27267346
     },
     {
       "symbol": "AXIA7.SA",
