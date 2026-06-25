@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-24T23:20:25.494297+00:00",
+  "generated_at_utc": "2026-06-25T09:25:16.114798+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -57,8 +57,8 @@
     {
       "symbol": "B3SA3.SA",
       "name": "B3",
-      "price": 14.97,
-      "vol_annual": 0.35210937
+      "price": 15.03,
+      "vol_annual": 0.35223784
     },
     {
       "symbol": "BBAS3.SA",
