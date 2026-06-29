@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-28T08:54:54.451961+00:00",
+  "generated_at_utc": "2026-06-29T11:03:07.851015+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -231,8 +231,8 @@
     {
       "symbol": "EQTL3.SA",
       "name": "Equatorial",
-      "price": null,
-      "vol_annual": null
+      "price": 39.75,
+      "vol_annual": 0.25376723
     },
     {
       "symbol": "FLRY3.SA",
