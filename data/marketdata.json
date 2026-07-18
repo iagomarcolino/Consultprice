@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-17T23:04:30.879316+00:00",
+  "generated_at_utc": "2026-07-18T07:53:30.426387+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -9,32 +9,32 @@
     {
       "symbol": "ABEV3.SA",
       "name": "Ambev",
-      "price": 15.63,
-      "vol_annual": 0.25109905
+      "price": 15.6,
+      "vol_annual": 0.25141151
     },
     {
       "symbol": "ALOS3.SA",
       "name": "Allos",
-      "price": 27.32,
-      "vol_annual": 0.24636804
+      "price": 27.799999,
+      "vol_annual": 0.24624673
     },
     {
       "symbol": "ASAI3.SA",
       "name": "Assaí",
-      "price": 8.5,
-      "vol_annual": 0.46968515
+      "price": 8.56,
+      "vol_annual": 0.47023473
     },
     {
       "symbol": "AURE3.SA",
       "name": "Auren Energia",
-      "price": 11.59,
-      "vol_annual": 0.32641308
+      "price": 11.76,
+      "vol_annual": 0.32660274
     },
     {
       "symbol": "AXIA3.SA",
       "name": "Axia (Verificar Ticker)",
-      "price": 50.200001,
-      "vol_annual": 0.34188266
+      "price": 49.73,
+      "vol_annual": 0.34224412
     },
     {
       "symbol": "AXIA6.SA",
@@ -45,50 +45,50 @@
     {
       "symbol": "AXIA7.SA",
       "name": "Axia (Verificar Ticker)",
-      "price": 49.18,
-      "vol_annual": 0.35728978
+      "price": 48.779999,
+      "vol_annual": 0.35843146
     },
     {
       "symbol": "AZZA3.SA",
       "name": "Azzas 2154 (Arezzo+Soma)",
-      "price": 18.59,
-      "vol_annual": 0.50081622
+      "price": 18.530001,
+      "vol_annual": 0.50143229
     },
     {
       "symbol": "B3SA3.SA",
       "name": "B3",
-      "price": 15.2,
-      "vol_annual": 0.35060118
+      "price": 15.39,
+      "vol_annual": 0.35087749
     },
     {
       "symbol": "BBAS3.SA",
       "name": "Banco do Brasil",
-      "price": 20.49,
-      "vol_annual": 0.28323794
+      "price": 20.76,
+      "vol_annual": 0.28341571
     },
     {
       "symbol": "BBDC3.SA",
       "name": "Bradesco (ON)",
-      "price": 15.94,
-      "vol_annual": 0.25700987
+      "price": 15.99,
+      "vol_annual": 0.25731323
     },
     {
       "symbol": "BBDC4.SA",
       "name": "Bradesco (PN)",
-      "price": 18.290001,
-      "vol_annual": 0.2786132
+      "price": 18.41,
+      "vol_annual": 0.2788992
     },
     {
       "symbol": "BBSE3.SA",
       "name": "BB Seguridade",
-      "price": 41.119999,
-      "vol_annual": 0.22174234
+      "price": 41.18,
+      "vol_annual": 0.22201663
     },
     {
       "symbol": "BEEF3.SA",
       "name": "Minerva",
-      "price": 3.6,
-      "vol_annual": 0.47821552
+      "price": 3.67,
+      "vol_annual": 0.47860171
     },
     {
       "symbol": "BOVA11.SA",
@@ -99,110 +99,110 @@
     {
       "symbol": "BPAC11.SA",
       "name": "BTG Pactual",
-      "price": 56.18,
-      "vol_annual": 0.31754456
+      "price": 56.59,
+      "vol_annual": 0.31786685
     },
     {
       "symbol": "BRAP4.SA",
       "name": "Bradespar",
-      "price": 21.190001,
-      "vol_annual": 0.25632776
+      "price": 21.309999,
+      "vol_annual": 0.25660381
     },
     {
       "symbol": "BRAV3.SA",
       "name": "Brava Energia (3R + Enauta)",
-      "price": 19.57,
-      "vol_annual": 0.44275777
+      "price": 19.65,
+      "vol_annual": 0.44330428
     },
     {
       "symbol": "BRKM5.SA",
       "name": "Braskem",
-      "price": 6.19,
-      "vol_annual": 0.65893676
+      "price": 6.1,
+      "vol_annual": 0.6596305
     },
     {
       "symbol": "CEAB3.SA",
       "name": "C&A",
-      "price": 9.75,
-      "vol_annual": 0.54087319
+      "price": 9.98,
+      "vol_annual": 0.54123662
     },
     {
       "symbol": "CMIG4.SA",
       "name": "Cemig",
-      "price": 11.12,
-      "vol_annual": 0.23221714
+      "price": 11.09,
+      "vol_annual": 0.2324988
     },
     {
       "symbol": "CMIN3.SA",
       "name": "CSN Mineração",
-      "price": 5.33,
-      "vol_annual": 0.38521018
+      "price": 5.45,
+      "vol_annual": 0.38528431
     },
     {
       "symbol": "COGN3.SA",
       "name": "Cogna",
-      "price": 2.23,
-      "vol_annual": 0.48123663
+      "price": 2.28,
+      "vol_annual": 0.48146292
     },
     {
       "symbol": "CPFE3.SA",
       "name": "CPFL Energia",
-      "price": 46.869999,
-      "vol_annual": 0.2319351
+      "price": 47.189999,
+      "vol_annual": 0.23214454
     },
     {
       "symbol": "CPLE3.SA",
       "name": "Copel",
-      "price": 14.8,
-      "vol_annual": 0.25148009
+      "price": 14.6,
+      "vol_annual": 0.25160707
     },
     {
       "symbol": "CSAN3.SA",
       "name": "Cosan",
-      "price": 3.84,
-      "vol_annual": 0.48331944
+      "price": 3.88,
+      "vol_annual": 0.48388443
     },
     {
       "symbol": "CSMG3.SA",
       "name": "Copasa",
-      "price": 63.560001,
-      "vol_annual": 0.31999606
+      "price": 64.059998,
+      "vol_annual": 0.3202955
     },
     {
       "symbol": "CSNA3.SA",
       "name": "CSN Siderúrgica",
-      "price": 5.05,
-      "vol_annual": 0.51308079
+      "price": 5.1,
+      "vol_annual": 0.51368826
     },
     {
       "symbol": "CURY3.SA",
       "name": "Cury Construtora",
-      "price": 30.67,
-      "vol_annual": 0.36457752
+      "price": 31.290001,
+      "vol_annual": 0.36465189
     },
     {
       "symbol": "CXSE3.SA",
       "name": "Caixa Seguridade",
-      "price": 22.059999,
-      "vol_annual": 0.23076579
+      "price": 22.299999,
+      "vol_annual": 0.23086633
     },
     {
       "symbol": "CYRE3.SA",
       "name": "Cyrela",
-      "price": 21.629999,
-      "vol_annual": 0.4151355
+      "price": 21.790001,
+      "vol_annual": 0.41561196
     },
     {
       "symbol": "CYRE4.SA",
       "name": "Cyrela (PN)",
-      "price": 20.48,
-      "vol_annual": 0.51005607
+      "price": 20.559999,
+      "vol_annual": 0.51247848
     },
     {
       "symbol": "DIRR3.SA",
       "name": "Direcional",
-      "price": 12.04,
-      "vol_annual": 0.38848655
+      "price": 12.38,
+      "vol_annual": 0.3883185
     },
     {
       "symbol": "EGIE3.SA",
@@ -213,314 +213,314 @@
     {
       "symbol": "EMBJ3.SA",
       "name": "Embraer (Verificar: EMBR3)",
-      "price": 81.75,
-      "vol_annual": 0.41131288
+      "price": 81.769997,
+      "vol_annual": 0.41182959
     },
     {
       "symbol": "ENEV3.SA",
       "name": "Eneva",
-      "price": 25.68,
-      "vol_annual": 0.33411024
+      "price": 25.950001,
+      "vol_annual": 0.33438298
     },
     {
       "symbol": "ENGI11.SA",
       "name": "Energisa",
-      "price": 49.25,
-      "vol_annual": 0.27250577
+      "price": 50.07,
+      "vol_annual": 0.27249821
     },
     {
       "symbol": "EQTL3.SA",
       "name": "Equatorial",
-      "price": 39.5,
-      "vol_annual": 0.24948225
+      "price": 39.849998,
+      "vol_annual": 0.2496805
     },
     {
       "symbol": "FLRY3.SA",
       "name": "Fleury",
-      "price": 16.59,
-      "vol_annual": 0.29759695
+      "price": 16.42,
+      "vol_annual": 0.2978709
     },
     {
       "symbol": "GGBR4.SA",
       "name": "Gerdau",
-      "price": 24.040001,
-      "vol_annual": 0.28801951
+      "price": 23.91,
+      "vol_annual": 0.28835423
     },
     {
       "symbol": "GOAU4.SA",
       "name": "Metalúrgica Gerdau",
-      "price": 10.48,
-      "vol_annual": 0.29141558
+      "price": 10.47,
+      "vol_annual": 0.29178212
     },
     {
       "symbol": "HAPV3.SA",
       "name": "Hapvida",
-      "price": 11.38,
-      "vol_annual": 0.70214905
+      "price": 10.95,
+      "vol_annual": 0.70225382
     },
     {
       "symbol": "HYPE3.SA",
       "name": "Hypera Pharma",
-      "price": 21.190001,
-      "vol_annual": 0.31436705
+      "price": 21.040001,
+      "vol_annual": 0.31471558
     },
     {
       "symbol": "IGTI11.SA",
       "name": "Iguatemi",
-      "price": 25.219999,
-      "vol_annual": 0.2844917
+      "price": 25.73,
+      "vol_annual": 0.28436837
     },
     {
       "symbol": "IRBR3.SA",
       "name": "IRB Re",
-      "price": 57.0,
-      "vol_annual": 0.39111507
+      "price": 57.450001,
+      "vol_annual": 0.39154417
     },
     {
       "symbol": "ISAE4.SA",
       "name": "ISA CTEEP (TRPL4)",
-      "price": 28.01,
-      "vol_annual": 0.22469028
+      "price": 28.0,
+      "vol_annual": 0.22497309
     },
     {
       "symbol": "ITSA4.SA",
       "name": "Itaúsa",
-      "price": 13.61,
-      "vol_annual": 0.24382566
+      "price": 13.79,
+      "vol_annual": 0.24387102
     },
     {
       "symbol": "ITUB4.SA",
       "name": "Itaú Unibanco",
-      "price": 41.959999,
-      "vol_annual": 0.23531947
+      "price": 42.549999,
+      "vol_annual": 0.23531562
     },
     {
       "symbol": "KLBN11.SA",
       "name": "Klabin",
-      "price": 17.58,
-      "vol_annual": 0.21133477
+      "price": 17.360001,
+      "vol_annual": 0.21133656
     },
     {
       "symbol": "LREN3.SA",
       "name": "Lojas Renner",
-      "price": 13.42,
-      "vol_annual": 0.41197409
+      "price": 13.65,
+      "vol_annual": 0.41227356
     },
     {
       "symbol": "MBRF3.SA",
       "name": "Marfrig (Verificar: MRFG3)",
-      "price": 15.03,
-      "vol_annual": 0.5635192
+      "price": 15.29,
+      "vol_annual": 0.56407494
     },
     {
       "symbol": "MGLU3.SA",
       "name": "Magazine Luiza",
       "price": 4.92,
-      "vol_annual": 0.6267224
+      "vol_annual": 0.62751042
     },
     {
       "symbol": "MOTV3.SA",
       "name": "Movida (Verificar: MOVI3)",
-      "price": 14.61,
-      "vol_annual": 0.27500827
+      "price": 14.82,
+      "vol_annual": 0.27509249
     },
     {
       "symbol": "MRVE3.SA",
       "name": "MRV",
-      "price": 4.68,
-      "vol_annual": 0.48156605
+      "price": 4.84,
+      "vol_annual": 0.48143367
     },
     {
       "symbol": "MULT3.SA",
       "name": "Multiplan",
-      "price": 28.530001,
-      "vol_annual": 0.25883503
+      "price": 29.219999,
+      "vol_annual": 0.25842804
     },
     {
       "symbol": "NATU3.SA",
       "name": "Natura",
-      "price": 8.55,
-      "vol_annual": 1.34016893
+      "price": 8.56,
+      "vol_annual": 1.3427076
     },
     {
       "symbol": "PCAR3.SA",
       "name": "Pão de Açúcar",
-      "price": 2.6,
-      "vol_annual": 0.71580302
+      "price": 2.59,
+      "vol_annual": 0.71669814
     },
     {
       "symbol": "PETR3.SA",
       "name": "Petrobras (ON)",
-      "price": 45.810001,
-      "vol_annual": 0.28666326
+      "price": 44.639999,
+      "vol_annual": 0.28629318
     },
     {
       "symbol": "PETR4.SA",
       "name": "Petrobras (PN)",
-      "price": 40.900002,
-      "vol_annual": 0.25637979
+      "price": 39.889999,
+      "vol_annual": 0.25593363
     },
     {
       "symbol": "POMO4.SA",
       "name": "Marcopolo",
-      "price": 5.24,
-      "vol_annual": 0.37629937
+      "price": 5.27,
+      "vol_annual": 0.37675373
     },
     {
       "symbol": "PRIO3.SA",
       "name": "Prio (PetroRio)",
-      "price": 57.849998,
-      "vol_annual": 0.34955836
+      "price": 56.790001,
+      "vol_annual": 0.34971824
     },
     {
       "symbol": "PSSA3.SA",
       "name": "Porto Seguro",
-      "price": 55.139999,
-      "vol_annual": 0.25536549
+      "price": 55.220001,
+      "vol_annual": 0.2556803
     },
     {
       "symbol": "RADL3.SA",
       "name": "Raia Drogasil",
-      "price": 18.549999,
-      "vol_annual": 0.4136916
+      "price": 18.52,
+      "vol_annual": 0.41420848
     },
     {
       "symbol": "RAIL3.SA",
       "name": "Rumo",
-      "price": 13.7,
-      "vol_annual": 0.34005803
+      "price": 13.93,
+      "vol_annual": 0.34025259
     },
     {
       "symbol": "RAIZ4.SA",
       "name": "Raízen",
       "price": 0.29,
-      "vol_annual": 0.64612201
+      "vol_annual": 0.64692113
     },
     {
       "symbol": "RDOR3.SA",
       "name": "Rede D'Or",
-      "price": 35.779999,
-      "vol_annual": 0.30398866
+      "price": 35.869999,
+      "vol_annual": 0.3043607
     },
     {
       "symbol": "RECV3.SA",
       "name": "PetroReconcavo",
       "price": 10.29,
-      "vol_annual": 0.35109987
+      "vol_annual": 0.35154072
     },
     {
       "symbol": "RENT3.SA",
       "name": "Localiza",
-      "price": 38.23,
-      "vol_annual": 0.39770559
+      "price": 38.860001,
+      "vol_annual": 0.39798648
     },
     {
       "symbol": "RENT4.SA",
       "name": "Localiza (PN - Antiga)",
-      "price": 36.810001,
-      "vol_annual": 0.44382486
+      "price": 37.740002,
+      "vol_annual": 0.44424801
     },
     {
       "symbol": "SANB11.SA",
       "name": "Santander Brasil",
-      "price": 26.65,
-      "vol_annual": 0.27661517
+      "price": 26.83,
+      "vol_annual": 0.27690952
     },
     {
       "symbol": "SBSP3.SA",
       "name": "Sabesp",
-      "price": 29.219999,
-      "vol_annual": 0.25795785
+      "price": 29.299999,
+      "vol_annual": 0.25826285
     },
     {
       "symbol": "SLCE3.SA",
       "name": "SLC Agrícola",
-      "price": 13.53,
-      "vol_annual": 0.23787345
+      "price": 13.61,
+      "vol_annual": 0.23813393
     },
     {
       "symbol": "SMFT3.SA",
       "name": "Smart Fit",
-      "price": 20.34,
-      "vol_annual": 0.3513074
+      "price": 20.83,
+      "vol_annual": 0.3512259
     },
     {
       "symbol": "SUZB3.SA",
       "name": "Suzano",
-      "price": 41.93,
-      "vol_annual": 0.24969126
+      "price": 41.700001,
+      "vol_annual": 0.24994982
     },
     {
       "symbol": "TAEE11.SA",
       "name": "Taesa",
-      "price": 40.889999,
-      "vol_annual": 0.20118411
+      "price": 41.029999,
+      "vol_annual": 0.20141366
     },
     {
       "symbol": "TIMS3.SA",
       "name": "TIM",
-      "price": 22.6,
-      "vol_annual": 0.28676161
+      "price": 22.43,
+      "vol_annual": 0.28707276
     },
     {
       "symbol": "TOTS3.SA",
       "name": "Totvs",
-      "price": 29.190001,
-      "vol_annual": 0.34398079
+      "price": 29.9,
+      "vol_annual": 0.3438725
     },
     {
       "symbol": "UGPA3.SA",
       "name": "Ultrapar",
-      "price": 32.07,
-      "vol_annual": 0.33318478
+      "price": 31.99,
+      "vol_annual": 0.33360318
     },
     {
       "symbol": "USIM5.SA",
       "name": "Usiminas",
-      "price": 8.23,
-      "vol_annual": 0.43024489
+      "price": 7.9,
+      "vol_annual": 0.42959575
     },
     {
       "symbol": "VALE3.SA",
       "name": "Vale",
-      "price": 72.940002,
-      "vol_annual": 0.26397439
+      "price": 72.980003,
+      "vol_annual": 0.26430498
     },
     {
       "symbol": "VAMO3.SA",
       "name": "Vamos",
-      "price": 3.17,
-      "vol_annual": 0.60553216
+      "price": 3.16,
+      "vol_annual": 0.60628393
     },
     {
       "symbol": "VBBR3.SA",
       "name": "Vibra (BR Distribuidora)",
-      "price": 34.919998,
-      "vol_annual": 0.30335835
+      "price": 34.369999,
+      "vol_annual": 0.30352497
     },
     {
       "symbol": "VIVA3.SA",
       "name": "Vivara",
-      "price": 22.440001,
-      "vol_annual": 0.39080967
+      "price": 23.35,
+      "vol_annual": 0.39001655
     },
     {
       "symbol": "VIVT3.SA",
       "name": "Vivo",
-      "price": 35.52,
-      "vol_annual": 0.25544163
+      "price": 35.470001,
+      "vol_annual": 0.25576268
     },
     {
       "symbol": "WEGE3.SA",
       "name": "WEG",
-      "price": 43.630001,
-      "vol_annual": 0.30900907
+      "price": 43.490002,
+      "vol_annual": 0.30938299
     },
     {
       "symbol": "YDUQ3.SA",
       "name": "Yduqs (Estácio)",
-      "price": 8.61,
-      "vol_annual": 0.49782169
+      "price": 8.84,
+      "vol_annual": 0.49800124
     }
   ]
 }
