@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-23T23:09:24.701345+00:00",
+  "generated_at_utc": "2026-07-24T08:29:19.799009+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -429,8 +429,8 @@
     {
       "symbol": "SBSP3.SA",
       "name": "Sabesp",
-      "price": 29.0,
-      "vol_annual": 0.2577281
+      "price": 28.75,
+      "vol_annual": 0.25805862
     },
     {
       "symbol": "SLCE3.SA",
