@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-27T23:17:32.545715+00:00",
+  "generated_at_utc": "2026-07-28T08:35:52.458155+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -63,8 +63,8 @@
     {
       "symbol": "BBAS3.SA",
       "name": "Banco do Brasil",
-      "price": 20.5,
-      "vol_annual": 0.28453635
+      "price": 20.35,
+      "vol_annual": 0.2848273
     },
     {
       "symbol": "BBDC3.SA",
@@ -447,8 +447,8 @@
     {
       "symbol": "SUZB3.SA",
       "name": "Suzano",
-      "price": 41.869999,
-      "vol_annual": 0.24794717
+      "price": 41.84,
+      "vol_annual": 0.24825521
     },
     {
       "symbol": "TAEE11.SA",
