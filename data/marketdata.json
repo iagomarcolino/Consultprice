@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-02T08:25:39.653295+00:00",
+  "generated_at_utc": "2026-08-03T09:48:36.645196+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -345,8 +345,8 @@
     {
       "symbol": "PCAR3.SA",
       "name": "Pão de Açúcar",
-      "price": 2.59,
-      "vol_annual": 0.68953047
+      "price": 2.74,
+      "vol_annual": 0.68892661
     },
     {
       "symbol": "PETR3.SA",
@@ -375,8 +375,8 @@
     {
       "symbol": "PSSA3.SA",
       "name": "Porto Seguro",
-      "price": 54.700001,
-      "vol_annual": 0.25576954
+      "price": 54.349998,
+      "vol_annual": 0.25605422
     },
     {
       "symbol": "RADL3.SA",
@@ -489,8 +489,8 @@
     {
       "symbol": "VAMO3.SA",
       "name": "Vamos",
-      "price": 3.34,
-      "vol_annual": 0.58144889
+      "price": 3.42,
+      "vol_annual": 0.58190007
     },
     {
       "symbol": "VBBR3.SA",
