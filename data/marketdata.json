@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-05T23:15:59.415461+00:00",
+  "generated_at_utc": "2026-08-06T08:37:48.322214+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -52,7 +52,7 @@
       "symbol": "AZZA3.SA",
       "name": "Azzas 2154 (Arezzo+Soma)",
       "price": 15.96,
-      "vol_annual": 0.49637907
+      "vol_annual": 0.49672515
     },
     {
       "symbol": "B3SA3.SA",
@@ -82,13 +82,13 @@
       "symbol": "BBSE3.SA",
       "name": "BB Seguridade",
       "price": 41.669998,
-      "vol_annual": 0.22223535
+      "vol_annual": 0.22266314
     },
     {
       "symbol": "BEEF3.SA",
       "name": "Minerva",
       "price": 3.61,
-      "vol_annual": 0.46277089
+      "vol_annual": 0.46364287
     },
     {
       "symbol": "BOVA11.SA",
@@ -112,7 +112,7 @@
       "symbol": "BRAV3.SA",
       "name": "Brava Energia (3R + Enauta)",
       "price": 19.450001,
-      "vol_annual": 0.42344691
+      "vol_annual": 0.42387459
     },
     {
       "symbol": "BRKM5.SA",
@@ -142,7 +142,7 @@
       "symbol": "COGN3.SA",
       "name": "Cogna",
       "price": 2.22,
-      "vol_annual": 0.46437238
+      "vol_annual": 0.46512359
     },
     {
       "symbol": "CPFE3.SA",
@@ -190,7 +190,7 @@
       "symbol": "CYRE3.SA",
       "name": "Cyrela",
       "price": 21.620001,
-      "vol_annual": 0.40905753
+      "vol_annual": 0.41001568
     },
     {
       "symbol": "CYRE4.SA",
@@ -208,7 +208,7 @@
       "symbol": "EGIE3.SA",
       "name": "Engie Brasil",
       "price": 29.83,
-      "vol_annual": 0.25002276
+      "vol_annual": 0.25047825
     },
     {
       "symbol": "EMBJ3.SA",
@@ -220,7 +220,7 @@
       "symbol": "ENEV3.SA",
       "name": "Eneva",
       "price": 26.98,
-      "vol_annual": 0.32924465
+      "vol_annual": 0.32986548
     },
     {
       "symbol": "ENGI11.SA",
@@ -256,7 +256,7 @@
       "symbol": "HAPV3.SA",
       "name": "Hapvida",
       "price": 11.11,
-      "vol_annual": 0.69535989
+      "vol_annual": 0.69528373
     },
     {
       "symbol": "HYPE3.SA",
@@ -292,13 +292,13 @@
       "symbol": "ITUB4.SA",
       "name": "Itaú Unibanco",
       "price": 42.380001,
-      "vol_annual": 0.23479179
+      "vol_annual": 0.23533671
     },
     {
       "symbol": "KLBN11.SA",
       "name": "Klabin",
       "price": 18.639999,
-      "vol_annual": 0.2124832
+      "vol_annual": 0.21281945
     },
     {
       "symbol": "LREN3.SA",
@@ -328,7 +328,7 @@
       "symbol": "MRVE3.SA",
       "name": "MRV",
       "price": 4.71,
-      "vol_annual": 0.47809255
+      "vol_annual": 0.47919184
     },
     {
       "symbol": "MULT3.SA",
@@ -370,19 +370,19 @@
       "symbol": "PRIO3.SA",
       "name": "Prio (PetroRio)",
       "price": 59.200001,
-      "vol_annual": 0.35238498
+      "vol_annual": 0.35163002
     },
     {
       "symbol": "PSSA3.SA",
       "name": "Porto Seguro",
       "price": 53.48,
-      "vol_annual": 0.25591984
+      "vol_annual": 0.25629058
     },
     {
       "symbol": "RADL3.SA",
       "name": "Raia Drogasil",
       "price": 20.549999,
-      "vol_annual": 0.4121809
+      "vol_annual": 0.41278873
     },
     {
       "symbol": "RAIL3.SA",
@@ -400,7 +400,7 @@
       "symbol": "RDOR3.SA",
       "name": "Rede D'Or",
       "price": 34.450001,
-      "vol_annual": 0.30434529
+      "vol_annual": 0.30475435
     },
     {
       "symbol": "RECV3.SA",
@@ -436,7 +436,7 @@
       "symbol": "SLCE3.SA",
       "name": "SLC Agrícola",
       "price": 13.51,
-      "vol_annual": 0.23734784
+      "vol_annual": 0.23782371
     },
     {
       "symbol": "SMFT3.SA",
@@ -448,7 +448,7 @@
       "symbol": "SUZB3.SA",
       "name": "Suzano",
       "price": 42.84,
-      "vol_annual": 0.24718506
+      "vol_annual": 0.24751093
     },
     {
       "symbol": "TAEE11.SA",
@@ -466,7 +466,7 @@
       "symbol": "TOTS3.SA",
       "name": "Totvs",
       "price": 32.509998,
-      "vol_annual": 0.34217482
+      "vol_annual": 0.34261327
     },
     {
       "symbol": "UGPA3.SA",
@@ -502,7 +502,7 @@
       "symbol": "VIVA3.SA",
       "name": "Vivara",
       "price": 22.290001,
-      "vol_annual": 0.38485785
+      "vol_annual": 0.3851343
     },
     {
       "symbol": "VIVT3.SA",
