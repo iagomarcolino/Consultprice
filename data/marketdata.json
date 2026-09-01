@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-01T01:16:16.381390+00:00",
+  "generated_at_utc": "2026-09-01T11:16:21.336223+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -93,8 +93,8 @@
     {
       "symbol": "BOVA11.SA",
       "name": "iShares Ibovespa",
-      "price": 174.779999,
-      "vol_annual": 0.1736343
+      "price": 172.720001,
+      "vol_annual": 0.17363444
     },
     {
       "symbol": "BPAC11.SA",
@@ -387,8 +387,8 @@
     {
       "symbol": "RAIL3.SA",
       "name": "Rumo",
-      "price": 15.08,
-      "vol_annual": 0.34267542
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "RAIZ4.SA",
