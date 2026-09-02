@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-02T00:06:41.382958+00:00",
+  "generated_at_utc": "2026-09-02T10:50:32.507625+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -93,8 +93,8 @@
     {
       "symbol": "BOVA11.SA",
       "name": "iShares Ibovespa",
-      "price": 177.100006,
-      "vol_annual": 0.17323865
+      "price": 174.779999,
+      "vol_annual": 0.17318009
     },
     {
       "symbol": "BPAC11.SA",
