@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-10T00:10:44.756706+00:00",
+  "generated_at_utc": "2026-09-10T10:51:10.278802+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -93,8 +93,8 @@
     {
       "symbol": "BOVA11.SA",
       "name": "iShares Ibovespa",
-      "price": 182.869995,
-      "vol_annual": 0.17325133
+      "price": 184.789993,
+      "vol_annual": 0.17322958
     },
     {
       "symbol": "BPAC11.SA",
@@ -153,8 +153,8 @@
     {
       "symbol": "CPLE3.SA",
       "name": "Copel",
-      "price": null,
-      "vol_annual": null
+      "price": 15.98,
+      "vol_annual": 0.24565032
     },
     {
       "symbol": "CSAN3.SA",
