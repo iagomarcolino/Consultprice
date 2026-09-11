@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-11T00:05:56.197538+00:00",
+  "generated_at_utc": "2026-09-11T10:47:10.208491+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -93,8 +93,8 @@
     {
       "symbol": "BOVA11.SA",
       "name": "iShares Ibovespa",
-      "price": 185.210007,
-      "vol_annual": 0.17341361
+      "price": 182.869995,
+      "vol_annual": 0.17338134
     },
     {
       "symbol": "BPAC11.SA",
@@ -117,8 +117,8 @@
     {
       "symbol": "BRKM5.SA",
       "name": "Braskem",
-      "price": 5.32,
-      "vol_annual": 0.69881325
+      "price": 5.31,
+      "vol_annual": 0.69870848
     },
     {
       "symbol": "CEAB3.SA",
@@ -220,7 +220,7 @@
       "symbol": "ENEV3.SA",
       "name": "Eneva",
       "price": 27.68,
-      "vol_annual": 0.31123484
+      "vol_annual": 0.3095989
     },
     {
       "symbol": "ENGI11.SA",
