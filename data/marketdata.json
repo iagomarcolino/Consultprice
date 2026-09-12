@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-12T00:14:09.058592+00:00",
+  "generated_at_utc": "2026-09-12T10:16:18.892850+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -93,8 +93,8 @@
     {
       "symbol": "BOVA11.SA",
       "name": "iShares Ibovespa",
-      "price": 183.850006,
-      "vol_annual": 0.17352874
+      "price": 185.210007,
+      "vol_annual": 0.1736192
     },
     {
       "symbol": "BPAC11.SA",
@@ -159,8 +159,8 @@
     {
       "symbol": "CSAN3.SA",
       "name": "Cosan",
-      "price": 3.7,
-      "vol_annual": 0.48942135
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "CSMG3.SA",
