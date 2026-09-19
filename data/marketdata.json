@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-19T00:16:05.260245+00:00",
+  "generated_at_utc": "2026-09-19T10:28:38.416621+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -28,7 +28,7 @@
       "symbol": "AURE3.SA",
       "name": "Auren Energia",
       "price": 12.35,
-      "vol_annual": 0.32472185
+      "vol_annual": 0.32427389
     },
     {
       "symbol": "AXIA3.SA",
@@ -70,7 +70,7 @@
       "symbol": "BBDC3.SA",
       "name": "Bradesco (ON)",
       "price": 15.79,
-      "vol_annual": 0.24893956
+      "vol_annual": 0.24913501
     },
     {
       "symbol": "BBDC4.SA",
@@ -93,8 +93,8 @@
     {
       "symbol": "BOVA11.SA",
       "name": "iShares Ibovespa",
-      "price": 182.470001,
-      "vol_annual": 0.17259626
+      "price": 183.279999,
+      "vol_annual": 0.17275992
     },
     {
       "symbol": "BPAC11.SA",
@@ -178,7 +178,7 @@
       "symbol": "CURY3.SA",
       "name": "Cury Construtora",
       "price": 29.049999,
-      "vol_annual": 0.37642645
+      "vol_annual": 0.37559358
     },
     {
       "symbol": "CXSE3.SA",
@@ -190,7 +190,7 @@
       "symbol": "CYRE3.SA",
       "name": "Cyrela",
       "price": 26.67,
-      "vol_annual": 0.41292567
+      "vol_annual": 0.4134915
     },
     {
       "symbol": "CYRE4.SA",
@@ -220,7 +220,7 @@
       "symbol": "ENEV3.SA",
       "name": "Eneva",
       "price": 27.129999,
-      "vol_annual": 0.30910089
+      "vol_annual": 0.31074234
     },
     {
       "symbol": "ENGI11.SA",
@@ -292,7 +292,7 @@
       "symbol": "ITUB4.SA",
       "name": "Itaú Unibanco",
       "price": 42.330002,
-      "vol_annual": 0.23401164
+      "vol_annual": 0.23536339
     },
     {
       "symbol": "KLBN11.SA",
@@ -352,7 +352,7 @@
       "symbol": "PETR3.SA",
       "name": "Petrobras (ON)",
       "price": 53.41,
-      "vol_annual": 0.29770783
+      "vol_annual": 0.29829637
     },
     {
       "symbol": "PETR4.SA",
@@ -442,7 +442,7 @@
       "symbol": "SMFT3.SA",
       "name": "Smart Fit",
       "price": 17.0,
-      "vol_annual": 0.3421411
+      "vol_annual": 0.34184528
     },
     {
       "symbol": "SUZB3.SA",
@@ -460,7 +460,7 @@
       "symbol": "TIMS3.SA",
       "name": "TIM",
       "price": 19.459999,
-      "vol_annual": 0.2808337
+      "vol_annual": 0.28014596
     },
     {
       "symbol": "TOTS3.SA",
