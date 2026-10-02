@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-02T21:26:27.141307+00:00",
+  "generated_at_utc": "2026-10-02T21:35:30.090116+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -94,7 +94,7 @@
       "symbol": "BOVA11.SA",
       "name": "iShares Ibovespa",
       "price": 190.0,
-      "vol_annual": 0.17211855
+      "vol_annual": 0.17321508
     },
     {
       "symbol": "BPAC11.SA",
@@ -439,10 +439,10 @@
       "vol_annual": 0.25558142
     },
     {
-      "symbol": "SMAL11",
+      "symbol": "SMAL11.SA",
       "name": "iShares Small Cap",
-      "price": null,
-      "vol_annual": null
+      "price": 116.339996,
+      "vol_annual": 0.22387588
     },
     {
       "symbol": "SMFT3.SA",
