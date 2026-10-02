@@ -80,7 +80,7 @@ SYMBOLS = {
     "SANB11.SA": "Santander Brasil",
     "SBSP3.SA": "Sabesp",
     "SLCE3.SA": "SLC Agrícola",
-    "SMAL11" : "iShares Small Cap",
+    "SMAL11.SA" : "iShares Small Cap",
     "SMFT3.SA": "Smart Fit",
     "SUZB3.SA": "Suzano",
     "TAEE11.SA": "Taesa",
