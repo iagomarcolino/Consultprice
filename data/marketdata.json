@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-08T01:53:24.905230+00:00",
+  "generated_at_utc": "2026-10-08T12:59:05.895672+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -52,7 +52,7 @@
       "symbol": "AZZA3.SA",
       "name": "Azzas 2154 (Arezzo+Soma)",
       "price": 23.469999,
-      "vol_annual": 0.53287402
+      "vol_annual": 0.53206846
     },
     {
       "symbol": "B3SA3.SA",
@@ -64,7 +64,7 @@
       "symbol": "BBAS3.SA",
       "name": "Banco do Brasil",
       "price": 24.18,
-      "vol_annual": 0.31248673
+      "vol_annual": 0.31315488
     },
     {
       "symbol": "BBDC3.SA",
@@ -93,8 +93,8 @@
     {
       "symbol": "BOVA11.SA",
       "name": "iShares Ibovespa",
-      "price": 201.25,
-      "vol_annual": 0.18224402
+      "price": 202.5,
+      "vol_annual": 0.18237674
     },
     {
       "symbol": "BPAC11.SA",
@@ -262,7 +262,7 @@
       "symbol": "HYPE3.SA",
       "name": "Hypera Pharma",
       "price": 27.32,
-      "vol_annual": 0.32115494
+      "vol_annual": 0.32090618
     },
     {
       "symbol": "IGTI11.SA",
@@ -358,13 +358,13 @@
       "symbol": "PETR4.SA",
       "name": "Petrobras (PN)",
       "price": 54.330002,
-      "vol_annual": 0.27224484
+      "vol_annual": 0.27297416
     },
     {
       "symbol": "POMO4.SA",
       "name": "Marcopolo",
       "price": 4.75,
-      "vol_annual": 0.37737947
+      "vol_annual": 0.37752444
     },
     {
       "symbol": "PRIO3.SA",
@@ -441,8 +441,8 @@
     {
       "symbol": "SMAL11.SA",
       "name": "iShares Small Cap",
-      "price": 130.199997,
-      "vol_annual": 0.23463725
+      "price": 128.600006,
+      "vol_annual": 0.2347568
     },
     {
       "symbol": "SMFT3.SA",
@@ -466,7 +466,7 @@
       "symbol": "TIMS3.SA",
       "name": "TIM",
       "price": 19.15,
-      "vol_annual": 0.27995829
+      "vol_annual": 0.28064161
     },
     {
       "symbol": "TOTS3.SA",
