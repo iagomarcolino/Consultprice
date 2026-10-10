@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-10T01:44:20.207915+00:00",
+  "generated_at_utc": "2026-10-10T12:03:55.781103+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -52,13 +52,13 @@
       "symbol": "AZZA3.SA",
       "name": "Azzas 2154 (Arezzo+Soma)",
       "price": 26.200001,
-      "vol_annual": 0.53559428
+      "vol_annual": 0.53640273
     },
     {
       "symbol": "B3SA3.SA",
       "name": "B3",
       "price": 23.35,
-      "vol_annual": 0.38915859
+      "vol_annual": 0.38913028
     },
     {
       "symbol": "BBAS3.SA",
@@ -76,7 +76,7 @@
       "symbol": "BBDC4.SA",
       "name": "Bradesco (PN)",
       "price": 21.610001,
-      "vol_annual": 0.29266683
+      "vol_annual": 0.29267314
     },
     {
       "symbol": "BBSE3.SA",
@@ -88,13 +88,13 @@
       "symbol": "BEEF3.SA",
       "name": "Minerva",
       "price": 4.5,
-      "vol_annual": 0.46378763
+      "vol_annual": 0.46372371
     },
     {
       "symbol": "BOVA11.SA",
       "name": "iShares Ibovespa",
-      "price": 205.550003,
-      "vol_annual": 0.18231736
+      "price": 203.080002,
+      "vol_annual": 0.18234364
     },
     {
       "symbol": "BPAC11.SA",
@@ -106,7 +106,7 @@
       "symbol": "BRAP4.SA",
       "name": "Bradespar",
       "price": 20.620001,
-      "vol_annual": 0.2620409
+      "vol_annual": 0.26258851
     },
     {
       "symbol": "BRAV3.SA",
@@ -130,7 +130,7 @@
       "symbol": "CMIG4.SA",
       "name": "Cemig",
       "price": 12.13,
-      "vol_annual": 0.23530252
+      "vol_annual": 0.23635287
     },
     {
       "symbol": "CMIN3.SA",
@@ -154,13 +154,13 @@
       "symbol": "CPLE3.SA",
       "name": "Copel",
       "price": 17.65,
-      "vol_annual": 0.24585731
+      "vol_annual": 0.24454479
     },
     {
       "symbol": "CSAN3.SA",
       "name": "Cosan",
       "price": 5.4,
-      "vol_annual": 0.51533542
+      "vol_annual": 0.51786738
     },
     {
       "symbol": "CSMG3.SA",
@@ -172,7 +172,7 @@
       "symbol": "CSNA3.SA",
       "name": "CSN Siderúrgica",
       "price": 6.61,
-      "vol_annual": 0.54269334
+      "vol_annual": 0.54261786
     },
     {
       "symbol": "CURY3.SA",
@@ -184,7 +184,7 @@
       "symbol": "CXSE3.SA",
       "name": "Caixa Seguridade",
       "price": 20.870001,
-      "vol_annual": 0.22790487
+      "vol_annual": 0.22688152
     },
     {
       "symbol": "CYRE3.SA",
@@ -202,7 +202,7 @@
       "symbol": "DIRR3.SA",
       "name": "Direcional",
       "price": 12.3,
-      "vol_annual": 0.39442901
+      "vol_annual": 0.39451565
     },
     {
       "symbol": "EGIE3.SA",
@@ -232,7 +232,7 @@
       "symbol": "EQTL3.SA",
       "name": "Equatorial",
       "price": 50.75,
-      "vol_annual": 0.25922602
+      "vol_annual": 0.25979296
     },
     {
       "symbol": "FLRY3.SA",
@@ -244,7 +244,7 @@
       "symbol": "GGBR4.SA",
       "name": "Gerdau",
       "price": 25.690001,
-      "vol_annual": 0.29432577
+      "vol_annual": 0.29280389
     },
     {
       "symbol": "GOAU4.SA",
@@ -262,7 +262,7 @@
       "symbol": "HYPE3.SA",
       "name": "Hypera Pharma",
       "price": 26.93,
-      "vol_annual": 0.32171285
+      "vol_annual": 0.32146047
     },
     {
       "symbol": "IGTI11.SA",
@@ -274,7 +274,7 @@
       "symbol": "IRBR3.SA",
       "name": "IRB Re",
       "price": 70.190002,
-      "vol_annual": 0.33284956
+      "vol_annual": 0.33412029
     },
     {
       "symbol": "ISAE4.SA",
@@ -304,19 +304,19 @@
       "symbol": "LREN3.SA",
       "name": "Lojas Renner",
       "price": 15.06,
-      "vol_annual": 0.40434361
+      "vol_annual": 0.40490897
     },
     {
       "symbol": "MBRF3.SA",
       "name": "Marfrig (Verificar: MRFG3)",
       "price": 18.75,
-      "vol_annual": 0.53751593
+      "vol_annual": 0.53872509
     },
     {
       "symbol": "MGLU3.SA",
       "name": "Magazine Luiza",
       "price": 12.22,
-      "vol_annual": 0.6606285
+      "vol_annual": 0.66199778
     },
     {
       "symbol": "MOTV3.SA",
@@ -340,7 +340,7 @@
       "symbol": "NATU3.SA",
       "name": "Natura",
       "price": 7.45,
-      "vol_annual": 1.2326376
+      "vol_annual": 1.22905926
     },
     {
       "symbol": "PCAR3.SA",
@@ -352,13 +352,13 @@
       "symbol": "PETR3.SA",
       "name": "Petrobras (ON)",
       "price": 63.060001,
-      "vol_annual": 0.29789717
+      "vol_annual": 0.29846367
     },
     {
       "symbol": "PETR4.SA",
       "name": "Petrobras (PN)",
       "price": 56.0,
-      "vol_annual": 0.27251779
+      "vol_annual": 0.27324207
     },
     {
       "symbol": "POMO4.SA",
@@ -370,7 +370,7 @@
       "symbol": "PRIO3.SA",
       "name": "Prio (PetroRio)",
       "price": 64.449997,
-      "vol_annual": 0.36236112
+      "vol_annual": 0.35878234
     },
     {
       "symbol": "PSSA3.SA",
@@ -382,7 +382,7 @@
       "symbol": "RADL3.SA",
       "name": "Raia Drogasil",
       "price": 21.459999,
-      "vol_annual": 0.42065457
+      "vol_annual": 0.42361052
     },
     {
       "symbol": "RAIL3.SA",
@@ -436,25 +436,25 @@
       "symbol": "SLCE3.SA",
       "name": "SLC Agrícola",
       "price": 17.6,
-      "vol_annual": 0.25602401
+      "vol_annual": 0.25557074
     },
     {
       "symbol": "SMAL11.SA",
       "name": "iShares Small Cap",
-      "price": 139.800003,
-      "vol_annual": 0.23718803
+      "price": 134.389999,
+      "vol_annual": 0.23549348
     },
     {
       "symbol": "SMFT3.SA",
       "name": "Smart Fit",
       "price": 25.379999,
-      "vol_annual": 0.3750901
+      "vol_annual": 0.37546312
     },
     {
       "symbol": "SUZB3.SA",
       "name": "Suzano",
       "price": 42.669998,
-      "vol_annual": 0.26083015
+      "vol_annual": 0.26081103
     },
     {
       "symbol": "TAEE11.SA",
@@ -466,7 +466,7 @@
       "symbol": "TIMS3.SA",
       "name": "TIM",
       "price": 18.1,
-      "vol_annual": 0.28162712
+      "vol_annual": 0.28231585
     },
     {
       "symbol": "TOTS3.SA",
@@ -520,7 +520,7 @@
       "symbol": "WEGE3.SA",
       "name": "WEG",
       "price": 51.470001,
-      "vol_annual": 0.29993452
+      "vol_annual": 0.30053903
     },
     {
       "symbol": "YDUQ3.SA",
