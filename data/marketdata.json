@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-20T01:04:11.325567+00:00",
+  "generated_at_utc": "2026-10-20T11:04:00.305712+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -423,8 +423,8 @@
     {
       "symbol": "SANB11.SA",
       "name": "Santander Brasil",
-      "price": 27.860001,
-      "vol_annual": 0.28978226
+      "price": 27.879999,
+      "vol_annual": 0.28975414
     },
     {
       "symbol": "SBSP3.SA",
