@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-21T00:35:16.334266+00:00",
+  "generated_at_utc": "2026-10-21T11:20:50.960111+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -237,8 +237,8 @@
     {
       "symbol": "FLRY3.SA",
       "name": "Fleury",
-      "price": 28.200001,
-      "vol_annual": 0.29349664
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "GGBR4.SA",
