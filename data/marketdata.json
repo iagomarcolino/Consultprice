@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-24T00:36:56.969747+00:00",
+  "generated_at_utc": "2026-10-24T10:28:34.549534+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -64,7 +64,7 @@
       "symbol": "BBAS3.SA",
       "name": "Banco do Brasil",
       "price": 24.719999,
-      "vol_annual": 0.31371745
+      "vol_annual": 0.31305236
     },
     {
       "symbol": "BBDC3.SA",
@@ -148,7 +148,7 @@
       "symbol": "CPFE3.SA",
       "name": "CPFL Energia",
       "price": 49.790001,
-      "vol_annual": 0.24262297
+      "vol_annual": 0.24269847
     },
     {
       "symbol": "CPLE3.SA",
@@ -262,7 +262,7 @@
       "symbol": "HYPE3.SA",
       "name": "Hypera Pharma",
       "price": 27.25,
-      "vol_annual": 0.32328079
+      "vol_annual": 0.32354001
     },
     {
       "symbol": "IGTI11.SA",
@@ -370,7 +370,7 @@
       "symbol": "PRIO3.SA",
       "name": "Prio (PetroRio)",
       "price": 73.800003,
-      "vol_annual": 0.35913141
+      "vol_annual": 0.35551753
     },
     {
       "symbol": "PSSA3.SA",
@@ -441,14 +441,14 @@
     {
       "symbol": "SMAL11.SA",
       "name": "iShares Small Cap",
-      "price": 137.5,
-      "vol_annual": 0.24118549
+      "price": 137.160004,
+      "vol_annual": 0.24106502
     },
     {
       "symbol": "SMFT3.SA",
       "name": "Smart Fit",
       "price": 24.92,
-      "vol_annual": 0.37597058
+      "vol_annual": 0.3763626
     },
     {
       "symbol": "SUZB3.SA",
@@ -466,7 +466,7 @@
       "symbol": "TIMS3.SA",
       "name": "TIM",
       "price": 19.09,
-      "vol_annual": 0.28154471
+      "vol_annual": 0.28223278
     },
     {
       "symbol": "TOTS3.SA",
