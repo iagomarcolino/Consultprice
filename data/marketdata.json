@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-27T01:27:08.771296+00:00",
+  "generated_at_utc": "2026-10-27T11:45:06.089626+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -183,8 +183,8 @@
     {
       "symbol": "CXSE3.SA",
       "name": "Caixa Seguridade",
-      "price": 21.1,
-      "vol_annual": 0.22425322
+      "price": 21.049999,
+      "vol_annual": 0.22436444
     },
     {
       "symbol": "CYRE3.SA",
@@ -267,8 +267,8 @@
     {
       "symbol": "IGTI11.SA",
       "name": "Iguatemi",
-      "price": 24.51,
-      "vol_annual": 0.3630252
+      "price": 24.83,
+      "vol_annual": 0.35693214
     },
     {
       "symbol": "IRBR3.SA",
@@ -285,8 +285,8 @@
     {
       "symbol": "ITSA4.SA",
       "name": "Itaúsa",
-      "price": null,
-      "vol_annual": null
+      "price": 13.39,
+      "vol_annual": 0.27477409
     },
     {
       "symbol": "ITUB4.SA",
@@ -393,8 +393,8 @@
     {
       "symbol": "RAIZ4.SA",
       "name": "Raízen",
-      "price": 0.34,
-      "vol_annual": 0.6992212
+      "price": 0.33,
+      "vol_annual": 0.70582536
     },
     {
       "symbol": "RDOR3.SA",
