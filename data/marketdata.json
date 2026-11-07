@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-07T01:52:07.070076+00:00",
+  "generated_at_utc": "2026-11-07T12:37:33.468199+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -153,8 +153,8 @@
     {
       "symbol": "CPLE3.SA",
       "name": "Copel",
-      "price": null,
-      "vol_annual": null
+      "price": 14.83,
+      "vol_annual": 0.2727773
     },
     {
       "symbol": "CSAN3.SA",
@@ -357,8 +357,8 @@
     {
       "symbol": "PETR4.SA",
       "name": "Petrobras (PN)",
-      "price": 45.360001,
-      "vol_annual": 0.29274163
+      "price": 45.299999,
+      "vol_annual": 0.29278194
     },
     {
       "symbol": "POMO4.SA",
@@ -393,8 +393,8 @@
     {
       "symbol": "RAIZ4.SA",
       "name": "Raízen",
-      "price": 27.299999,
-      "vol_annual": 3.65760227
+      "price": 28.0,
+      "vol_annual": 3.65303412
     },
     {
       "symbol": "RDOR3.SA",
@@ -507,8 +507,8 @@
     {
       "symbol": "VIVA3.SA",
       "name": "Vivara",
-      "price": 17.91,
-      "vol_annual": 0.46341642
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "VIVT3.SA",
