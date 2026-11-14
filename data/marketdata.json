@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-14T02:20:46.080401+00:00",
+  "generated_at_utc": "2026-11-14T13:07:05.772401+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -75,8 +75,8 @@
     {
       "symbol": "BBDC4.SA",
       "name": "Bradesco (PN)",
-      "price": 14.52,
-      "vol_annual": 0.35852065
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "BBSE3.SA",
@@ -394,7 +394,7 @@
       "symbol": "RAIZ4.SA",
       "name": "Raízen",
       "price": 20.0,
-      "vol_annual": 6.51608381
+      "vol_annual": 6.47638434
     },
     {
       "symbol": "RDOR3.SA",
