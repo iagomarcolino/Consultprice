@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-14T13:07:05.772401+00:00",
+  "generated_at_utc": "2026-11-15T13:36:48.713995+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -75,8 +75,8 @@
     {
       "symbol": "BBDC4.SA",
       "name": "Bradesco (PN)",
-      "price": null,
-      "vol_annual": null
+      "price": 14.52,
+      "vol_annual": 0.35852065
     },
     {
       "symbol": "BBSE3.SA",
